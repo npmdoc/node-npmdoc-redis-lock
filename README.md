@@ -1,4 +1,7 @@
-# api documentation for  [redis-lock (v0.1.0)](https://github.com/errorception/redis-lock)  [![npm package](https://img.shields.io/npm/v/npmdoc-redis-lock.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redis-lock) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redis-lock.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redis-lock)
+# npmdoc-redis-lock
+
+#### basic api documentation for  [redis-lock (v0.1.0)](https://github.com/errorception/redis-lock)  [![npm package](https://img.shields.io/npm/v/npmdoc-redis-lock.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redis-lock) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redis-lock.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redis-lock)
+
 #### A locking primitive using redis.
 
 [![NPM](https://nodei.co/npm/redis-lock.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/redis-lock)
@@ -62,7 +65,8 @@
     "scripts": {
         "test": "./node_modules/mocha/bin/mocha"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
